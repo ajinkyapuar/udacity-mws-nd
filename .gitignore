@@ -38,8 +38,8 @@ Temporary Items
 
 
 # End of https://www.gitignore.io/api/macos,visualstudiocode
-
-stage 1/Project-Part-1-Start/node_modules/
 .vscode/
 
+stage 1/Project-Part-1-Start/node_modules/
 stage 1/Project-Part-2-Start/node_modules/
+stage 1/Project-Part-3-Start/node_modules/
