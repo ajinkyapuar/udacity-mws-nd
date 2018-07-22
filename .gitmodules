@@ -1,3 +1,6 @@
 [submodule "stage 1/mws-restaurant-stage-1"]
 	path = stage 1/mws-restaurant-stage-1
 	url = https://github.com/ajinkyapuar/mws-restaurant-stage-1
+[submodule "stage 2/course-ajax"]
+	path = stage 2/course-ajax
+	url = git@github.com:ajinkyapuar/course-ajax.git
