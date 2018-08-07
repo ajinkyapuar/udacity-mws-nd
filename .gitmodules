@@ -4,3 +4,6 @@
 [submodule "stage 2/course-ajax"]
 	path = stage 2/course-ajax
 	url = git@github.com:ajinkyapuar/course-ajax.git
+[submodule "stage 2/ud892"]
+	path = stage 2/ud892
+	url = git@github.com:ajinkyapuar/ud892.git
