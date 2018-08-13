@@ -7,3 +7,6 @@
 [submodule "stage 2/ud892"]
 	path = stage 2/ud892
 	url = git@github.com:ajinkyapuar/ud892.git
+[submodule "stage 2/mws-restaurant-stage-2"]
+	path = stage 2/mws-restaurant-stage-2
+	url = https://github.com/ajinkyapuar/mws-restaurant-stage-2
