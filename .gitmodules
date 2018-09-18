@@ -10,3 +10,6 @@
 [submodule "stage 2/mws-restaurant-stage-2"]
 	path = stage 2/mws-restaurant-stage-2
 	url = https://github.com/ajinkyapuar/mws-restaurant-stage-2
+[submodule "stage 3/course-ud303"]
+	path = stage 3/course-ud303
+	url = https://github.com/ajinkyapuar/course-ud303
