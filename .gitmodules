@@ -13,3 +13,6 @@
 [submodule "stage 3/course-ud303"]
 	path = stage 3/course-ud303
 	url = https://github.com/ajinkyapuar/course-ud303
+[submodule "stage 3/web-workers-demo"]
+	path = stage 3/web-workers-demo
+	url = git@github.com:ajinkyapuar/web-workers-demo.git
