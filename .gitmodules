@@ -19,3 +19,6 @@
 [submodule "stage 3/udacity-qrcode"]
 	path = stage 3/udacity-qrcode
 	url = git@github.com:ajinkyapuar/udacity-qrcode.git
+[submodule "stage 3/news-aggregator"]
+	path = stage 3/news-aggregator
+	url = git@github.com:ajinkyapuar/news-aggregator.git
