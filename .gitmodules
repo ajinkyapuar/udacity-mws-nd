@@ -16,3 +16,6 @@
 [submodule "stage 3/web-workers-demo"]
 	path = stage 3/web-workers-demo
 	url = git@github.com:ajinkyapuar/web-workers-demo.git
+[submodule "stage 3/udacity-qrcode"]
+	path = stage 3/udacity-qrcode
+	url = git@github.com:ajinkyapuar/udacity-qrcode.git
