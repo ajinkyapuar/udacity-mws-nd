@@ -22,3 +22,6 @@
 [submodule "stage 3/news-aggregator"]
 	path = stage 3/news-aggregator
 	url = git@github.com:ajinkyapuar/news-aggregator.git
+[submodule "stage 3/mws-restaurant-stage-3"]
+	path = stage 3/mws-restaurant-stage-3
+	url = git@github.com:ajinkyapuar/mws-restaurant-stage-3.git
